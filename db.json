@@ -1,14 +1,25 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+    "Aliahan": {
+        "shop": [
+            {
+                "weapon": {
+                    "hinoki no bou": 5,
+                    "konbou": 30,
+                    "dou no tsurugi": 100
+                },
+                "item": {
+                    "yakusou": 8,
+                    "dokukeshisou": 10,
+                    "kimera no tsubasa": 25,
+                    "onabe no futa": 50
+                }
+            }
+        ]
     },
-    "dosukoi": {
-      "hoge": "fuga"
+    "Reeve": {
+        "abacum": false
+    },
+    "Romaria": {
+        "arena": true
     }
-  }
+}
