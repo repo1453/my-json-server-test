@@ -1,8 +1,14 @@
-[
-    {
-        "userId": 1,
+{
+    "posts": [
+      {
         "id": 1,
-        "title": "my-json-server",
-        "body": "my-json-server"
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "dosukoi": {
+      "hoge": "fuga"
     }
-]
+  }
